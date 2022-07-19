@@ -1,5 +1,9 @@
 [package]
 name = "zkwasmer"
+license = "MIT AND Apache-2.0"
+keywords = ["zk", "zkSNARK", "wasm"]
+repository = "https://github.com/Riemannstein/zkWasmer"
+homepage = "https://github.com/Riemannstein/zkWasmer"
 version = "0.0.1"
 edition = "2021"
 
